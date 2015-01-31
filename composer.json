@@ -1,5 +1,5 @@
 {
-    "name": "wispoz/yii2-helpers",
+    "name": "wispoz/helpers",
     "description": "A collection of useful helper functions for Yii Framework 2.0",
     "keywords": ["yii", "yii2", "extension", "helper", "bootstrap", "utilities"],
     "type": "yii2-extension",
@@ -10,9 +10,6 @@
            }
     ],
     "minimum-stability": "dev",
-    "require": {
-        "yiisoft/yii2-bootstrap": "*"
-    },
     "autoload": {
         "psr-4": {
             "wispoz\\helpers\\": ""
